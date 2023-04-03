@@ -1,0 +1,16 @@
+.container{
+    margin:auto;
+    width: 30%;
+}
+.input{
+    margin:10px
+}
+button{
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    background-color: chartreuse;
+    color:white;
+    border: none;
+    cursor: pointer;
+}
